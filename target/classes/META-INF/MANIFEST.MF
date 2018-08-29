@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: activeMQ_conect
+Implementation-Version: 0.0.1
+Built-By: root
+Implementation-Vendor-Id: br.com.matheus
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/activeMQ_conect
+Created-By: Maven Integration for Eclipse
+
